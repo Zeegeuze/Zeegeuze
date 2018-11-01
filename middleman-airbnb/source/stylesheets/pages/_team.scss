@@ -1,0 +1,34 @@
+i{
+  color: $red;
+}
+
+.container{
+  background-color: white;
+  height: 100vh;
+  font-weight: 100vw;
+
+}
+
+.grey-box{
+  background-color: $light-gray;
+  padding: 150px 0px;
+  margin: 0px -15px;
+  h2{font-family: "Varela";
+  font-weight: bold;
+  font-size: 30px;}
+  position: relative;
+}
+
+.pictures{
+
+  width: 150px;
+  height: 150px;
+
+}
+.horizonital-images{
+  position: absolute;
+  margin: 10px;
+  bottom: -150px;
+  text-align: center;
+}
+
