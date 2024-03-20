@@ -48,6 +48,9 @@ Apart from the projects I did on my previous job, I also started with some perso
   <br />
 </div>
 
+<h3>🎲 Contests</h3>
+Joined AoC 2023 via Le Wagon. I got 15th place in Le Wagon global for the timing challenge and our squad came in 9th (with 3 iso 4 persons). I did the puzzles in Python which was new for me at that point.
+
 <h3>👴 What did I do before?</h3> 
 <br />
 <p align="center">
