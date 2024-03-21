@@ -1,6 +1,6 @@
 <h1>Data scientist for hire!</h1>
 
-After a career change from customer service into tech 5 years ago and a first working experience, it's time for the second step of my turn towards data. After months of preparation and an intensive 9-weeks course I finalised a bootcamp of "Data Science and AI" so I'm ready for a new start. Apart from the coding experience, I also have experience in managing, problem solving, multinationals and our own startup to name a few. 
+Hi, I'm Wouter! After a career change from customer service into tech 5 years ago and a first working experience, it's time for the second step of my turn towards data. After months of preparation and an intensive 9-weeks course I finalised a bootcamp of "Data Science and AI" so I'm ready for a new start. Apart from the coding experience, I also have experience in managing, problem solving, multinationals and our own startup to name a few. 
 <br />
 
 <h3>📠 Contact</h3>
