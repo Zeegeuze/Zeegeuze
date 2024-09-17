@@ -11,7 +11,7 @@ Hi, I'm Wouter! After a career change from customer service into tech 5 years ag
 <br />
 
 <h3> 👀 Looking for</h3>
-Currently I'm looking for a job in Data Science. My preference would be to start in a multinational again, if possible with deep learning somewhere in Liechtenstein, Luxemburg, Switserland or Austria. I'm open for other opportunities as well though as I don't want to pass on a great company of opportunity!
+Currently I'm looking for a job in Data Analytics or Data Science. 
 <br />
 
 <h3>:u7533: Some Tools and languages I Use</h3> 
